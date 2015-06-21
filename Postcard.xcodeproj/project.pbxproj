@@ -13,6 +13,8 @@
 		0E282DC81B2EDB2A00E0FD8D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E282DC71B2EDB2A00E0FD8D /* Images.xcassets */; };
 		0E282DCB1B2EDB2A00E0FD8D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0E282DC91B2EDB2A00E0FD8D /* LaunchScreen.xib */; };
 		0E282DD71B2EDB2A00E0FD8D /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E282DD61B2EDB2A00E0FD8D /* PostcardTests.swift */; };
+		0E282DE11B2F258200E0FD8D /* GreenRpt.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 0E282DE01B2F258200E0FD8D /* GreenRpt.JPG */; };
+		0E282DE31B31DDD000E0FD8D /* einsteinstamp.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0E282DE21B31DDD000E0FD8D /* einsteinstamp.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		0E282DD01B2EDB2A00E0FD8D /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E282DD51B2EDB2A00E0FD8D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0E282DD61B2EDB2A00E0FD8D /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		0E282DE01B2F258200E0FD8D /* GreenRpt.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = GreenRpt.JPG; sourceTree = "<group>"; };
+		0E282DE21B31DDD000E0FD8D /* einsteinstamp.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = einsteinstamp.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		0E282DBE1B2EDB2A00E0FD8D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0E282DE21B31DDD000E0FD8D /* einsteinstamp.jpeg */,
+				0E282DE01B2F258200E0FD8D /* GreenRpt.JPG */,
 				0E282DBF1B2EDB2A00E0FD8D /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,7 +199,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				0E282DC61B2EDB2A00E0FD8D /* Main.storyboard in Resources */,
+				0E282DE31B31DDD000E0FD8D /* einsteinstamp.jpeg in Resources */,
 				0E282DCB1B2EDB2A00E0FD8D /* LaunchScreen.xib in Resources */,
+				0E282DE11B2F258200E0FD8D /* GreenRpt.JPG in Resources */,
 				0E282DC81B2EDB2A00E0FD8D /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
